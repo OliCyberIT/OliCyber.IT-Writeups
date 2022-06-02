@@ -1,6 +1,6 @@
 # OliCyber.IT 2022 - Competizione nazionale
 
-## [misc-1] GGOL (1 risoluzioni)
+## [misc-1] GGOL (6 risoluzioni)
 
 ```
 `Conway's Game of Life`? No grazie preferisco `Gabibbo's Game Of Life`!
