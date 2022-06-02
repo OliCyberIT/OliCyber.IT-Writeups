@@ -4,7 +4,7 @@ Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it
 
 ## OliCyber.IT 2022 - Competizione nazionale
 
-|   # | categoria | titolo                                                                            | writeup                                 | solves | autore       |
+|   # | categoria | challenge                                                                         | writeup                                 | solves | autore       |
 | --: | :-------- | :-------------------------------------------------------------------------------- | :-------------------------------------- | -----: | :----------- |
 |   1 | binary    | [Dati Privati](https://training.olicyber.it/challenges#challenge-291)             | [writeup](/2022-nazionale/binary1.md)   |      7 | @nick0ve     |
 |   2 | binary    | [Frontdoor 1](https://training.olicyber.it/challenges#challenge-292)              | [writeup](/2022-nazionale/binary2-3.md) |      3 | @Alberto247  |
@@ -22,3 +22,18 @@ Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it
 |  14 | web       | [Private Notes](https://training.olicyber.it/challenges#challenge-304)            | [writeup](/2022-nazionale/web2.md)      |      2 | @xato        |
 |  15 | web       | [Bibvault 1](https://training.olicyber.it/challenges#challenge-305)               | [writeup](/2022-nazionale/web3.md)      |      9 | @maxpnl      |
 |  16 | web       | [Bibvault^2](https://training.olicyber.it/challenges#challenge-306)               | [writeup](/2022-nazionale/web4.md)      |      5 | @maxpnl      |
+
+## OliCyber.IT 2022 - Competizione territoriale
+
+|   # | categoria | challenge                                                                         | writeup                                  | solves | Owner        |
+| --: | :-------- | :-------------------------------------------------------------------------------- | :--------------------------------------- | -----: | :----------- |
+|   1 | binary    | [Scure Gate](https://training.olicyber.it/challenges#challenge-228)               | [writeup](2022-territoriale/binary1.md)  |    196 | @Alberto247  |
+|   2 | binary    | [Rererererererecursive](https://training.olicyber.it/challenges#challenge-229)    | [writeup](2022-territoriale/binary2.md)  |     10 | @OrsoBruno96 |
+|   3 | binary    | [Big bird](https://training.olicyber.it/challenges#challenge-230)                 | [writeup](2022-territoriale/binary3.md)  |     11 | @OrsoBruno96 |
+|   4 | crypto    | [Worlde](https://training.olicyber.it/challenges#challenge-231)                   | [writeup](2022-territoriale/crypto1.md)  |    203 | @mr96        |
+|   5 | crypto    | [The encrypted line](https://training.olicyber.it/challenges#challenge-232)       | [writeup](2022-territoriale/crypto2.md)  |     16 | @Drago       |
+|   6 | crypto    | [babyoracle](https://training.olicyber.it/challenges#challenge-233)               | [writeup](2022-territoriale/crypto3.md)  |      7 | @Drago/mr96  |
+|   7 | misc      | [Do you believe in magic?](https://training.olicyber.it/challenges#challenge-234) | [writeup](2022-territoriale/misc1.md)    |    155 | @lorenz      |
+|   8 | network   | [Daring New State](https://training.olicyber.it/challenges#challenge-235)         | [writeup](2022-territoriale/network1.md) |     54 | @matpro      |
+|   9 | web       | [Flag Pass](https://training.olicyber.it/challenges#challenge-236)                | [writeup](2022-territoriale/web1.md)     |    153 | @xato        |
+|  10 | web       | [EasyShop](https://training.olicyber.it/challenges#challenge-237)                 | [writeup](2022-territoriale/web2.md)     |     12 | @Maxpnl      |
