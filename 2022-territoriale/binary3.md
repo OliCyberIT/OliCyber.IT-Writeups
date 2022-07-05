@@ -16,7 +16,7 @@ Ci viene in aiuto proprio quello che ha stampato il programma, che è esattament
 
 Dobbiamo a questo punto scoprire l'indirizzo della funzione `win`. Avendo il binario l'ASLR disabilitato, questo è un compito semplice, in quanto l'indirizzo è noto a tempo di compilazione. Possiamo usare vari tool per leggerlo, usando pwntools come sotto oppure `nm`:
 
-```
+```bash
 nm bigbird | grep win
 0000000000401715 T win
 ```

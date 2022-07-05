@@ -19,7 +19,7 @@ Essendo un OTP, è improbabile che qualche attacco crittografico possa funzionar
 
 La funzione che calcola la chiave, definisce la seguente successione
 
-$$
+```TeX
 \begin{cases}
     s_{i + 2} = 3 s_{i + 1} - 2 s_i \\
     s_0 = 0 \\
@@ -27,34 +27,34 @@ $$
 \end{cases}
 \qquad
 k = s_1000000
-$$
+```
 
 Posto che possiamo trasformare il calcolo per l'n-esimo termine della successione esattamente come si fa per la serie di Fibonacci, cioè usando la programmazione dinamica, vale la pena mostrare invece come calcolarlo con carta e penna, che probabilmente è un metodo che meno persone hanno già visto.
 
 Il metodo è ben fondato, ma per essere usato con cognizione di causa, richiede un po' di teoremi che si fanno ad analisi 1, per cui alcuni punti potrebbero sembrare un po' oscuri. Riguardatelo fra qualche anno e tutto sarà cristallino.
 
-Dato che l'equazione per la successione è lineare, è sensato andare a cercare soluzioni di tipo esponenziale, cioè $s_k = \lambda^k$:
+Dato che l'equazione per la successione è lineare, è sensato andare a cercare soluzioni di tipo esponenziale, cioè `s_k = \lambda^k`
 
-$$
+```TeX
 \lambda^{k + 2} = 3 \lambda^{k + 1} - 2 \lambda^k   \\
 \rightarrow \lambda^2 = 3\lambda - 2 \\
 \rightarrow \lambda_{1, 2} = \frac{3}{2} \pm \frac{1}{2}
-$$
+```
 
-In generale, dato la linearità dell'equazione, la soluzione sarà quindi;
+In generale, dato la linearità dell'equazione, la soluzione sarà quindi
 
-$$
+```TeX
 s_k = A 2^k + B 1^k
-$$
+```
 
-dove le costanti A, B vanno cercate nelle condizioni iniziali, cioè $s_0 = 0, s_1 = 1$, che portano alla soluzione analitica:
+dove le costanti A, B vanno cercate nelle condizioni iniziali, cioè `s_0 = 0, s_1 = 1`, che portano alla soluzione analitica
 
-$$
+```TeX
 s_k = 2^k - 1
-$$
+```
 
 Per essere sicuri che questa sia la soluzione, basta inserirla nella successione definita per ricorrenza e controllare che la verifica.
-In questo modo abbiamo praticamente finito, nel senso che abbiamo la chiave, che va solo tagliata a 64 bit. Notiamo inoltre che per $k \gt 64$, dato che prendiamo solo i 64 bit più bassi, la chiave è sempre $2^64 - 1$, cioè l'intero formato da 64 bit tutti settati a 1. Dato che stiamo facendo uno xor, possiamo negare tutti i bit della flag cifrata per ottenere la flag decifrata.
+In questo modo abbiamo praticamente finito, nel senso che abbiamo la chiave, che va solo tagliata a 64 bit. Notiamo inoltre che per `k \gte 64`, dato che prendiamo solo i 64 bit più bassi, la chiave è sempre `2^64 - 1`, cioè l'intero formato da 64 bit tutti settati a 1. Dato che stiamo facendo uno xor, possiamo negare tutti i bit della flag cifrata per ottenere la flag decifrata.
 
 ### Exploit
 
