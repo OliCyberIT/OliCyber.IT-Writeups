@@ -1,0 +1,22 @@
+# OliCyber.IT 2023 - Simulazione training camp 2
+
+## [crypto] Last minute (178 risoluzioni)
+
+La flag viene encodata in base 64 un numero arbitrario di volte tra 10 e 15.
+
+### Soluzione
+
+Per ottenere la flag è sufficiente continuare a decodificare base 64 finché non verifichiamo che la stringa "flag" compare all'interno del messaggio.
+
+### Exploit
+
+```python
+from base64 import b64decode
+
+ct = b"Vm0wd2QyUXlWa2hWV0doVllteEtWMVl3WkRSWFJteFZVbTVrVmxKc2NIcFhhMk0xVmpGS2RHVkdXbFpOYm1oUVdWZDRTMk14VG5OWGJHUlRUVEZLVVZkV1kzaFRNVWw0V2toV2FGSnRVbFJVVkVaTFZWWmtWMWRzV214U2JHdzBWMnRvVjJGV1NuUlZia0pXWWxoU00xVXhXbXRXTVdSMFVteHdWMDFWY0VsV2JUQXhWREpHVjFOdVZsSmhlbXhYV1d4b2IxWXhjRlpYYlhSWFRWaENTbGt3WkRSVk1ERkZWbGhrVjJFeVVYZFhWbHByVTBaT2NtRkdXbWxTYTNCdlZtMXdUMVV5UmtkaVNFWlRZbGhTV0ZSV1pGTk5SbFowWlVaT1ZXSkdjRnBWVjNCWFZqRkplbUZIYUZwaGExcFVXWHBHYTJSV1ZuUmhSazVwVmpKb1dWWXhaREJoTWtsNFUydGtWbUpIVWxsWmJGWmhWa1pTVjFkdVpFNVNia0pIVmpKNFQxWlhTa2RqUmxwWFlsaFNNMVpxU2t0U01rNUpWMjFHVTFKWVFrbFhXSEJIVkRGa1dGTnJhR3hTYkVwVVZteG9RMWRzV1hoWGJYUk9VbXR3TUZaV2FHOVdiVXBJWVVoT1ZtSlVWa1JaTW5oVFZqRmtkRkp0ZUZkaWEwcElWbTE0VTFJeFdsaFRhMXBxVWxkU1dGUlhOVk5sYkZweFVWaG9hMVpyV25wVlZ6RkhWVEZLVjJOSE9WZGlXRUpJV2tSR1MyUkdUbkphUmxKcFZqTm9kbFpHV205Uk1rbDRWMjVTVGxkSFVsWlVWM1J6VGtaYVdHUkhkR2hXYXpWSFZHeGFjMWR0U2xsVmFrNWFUVzVvVkZZd1pGTlRSa3B6VkdzMVYwMHhSalpXYWtvd1ZURlZlRmR1U2s1V1ZscFVXVlJPUTFZeFduRlViVGxxWWtad2VGVXlkREJXUmtwelYyNW9WMUl6YUROV1J6RkxaRWRHUmxac1pHbFNNVVYzVmxaU1IxbFdXbkpOVmxwWFlYcFdWRlZyVmtaT1VUMDk="
+
+while b"flag" not in ct:
+    ct = b64decode(ct)
+
+print(ct)
+```

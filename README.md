@@ -40,24 +40,24 @@ Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it
 
 ## OliCyber.IT 2021 - Competizione nazionale
 
-|   # | categoria | challenge                                                                                       | writeup                                | solves | autore       |
-| --: | :-------- | :---------------------------------------------------------------------------------------------- | :------------------------------------- | -----: | :----------- |
-|   1 | binary    | [La settimana enigmistica](https://training.olicyber.it/challenges#challenge-144)               | [writeup](/2021-nazionale/binary1.md)  |     23 | @Alberto247  |
-|   2 | binary    | [Algoritmo Sicuro e Resistente](https://training.olicyber.it/challenges#challenge-145)          | [writeup](/2021-nazionale/binary2.md)  |     19 | @Alberto247  |
-|   3 | binary    | [I predetatori dell'indirizzo perduto 1](https://training.olicyber.it/challenges#challenge-146) | [writeup](/2021-nazionale/binary3.md)  |     14 | @OrsoBruno96 |
-|   4 | binary    | [I predetatori dell'indirizzo perduto 2](https://training.olicyber.it/challenges#challenge-147) | [writeup](/2021-nazionale/binary4.md)  |     10 | @OrsoBruno96 |
-|   5 | crypto    | [Un po' di storia](https://training.olicyber.it/challenges#challenge-136)                       | [writeup](/2021-nazionale/crypto1.md)  |     69 | @Drago       |
-|   6 | crypto    | [Small bits of RSA](https://training.olicyber.it/challenges#challenge-137)                      | [writeup](/2021-nazionale/crypto2.md)  |     33 | @Drago       |
-|   7 | crypto    | [SoundOfSystem](https://training.olicyber.it/challenges#challenge-138)                          | [writeup](/2021-nazionale/crypto3.md)  |      7 | @Drago       |
-|   8 | crypto    | [Large bits of RSA](https://training.olicyber.it/challenges#challenge-139)                      | [writeup](/2021-nazionale/crypto4.md)  |      0 | @Drago       |
-|   9 | misc      | [Il test di ammissione](https://training.olicyber.it/challenges#challenge-140)                  | [writeup](/2021-nazionale/misc1.md)    |     60 | @matpr       |
-|  10 | misc      | [Il test di ammissione 2](https://training.olicyber.it/challenges#challenge-141)                | [writeup](/2021-nazionale/misc2.md)    |      1 | @matpr       |
-|  11 | network   | [tr(A)Is](https://training.olicyber.it/challenges#challenge-142)                                | [writeup](/2021-nazionale/network1.md) |    111 | @lorenz      |
-|  12 | network   | [Dispositivo Non Sicuro](https://training.olicyber.it/challenges#challenge-143)                 | [writeup](/2021-nazionale/network2.md) |     25 | @lorenz      |
-|  13 | web       | [Fritto Misto 1](https://training.olicyber.it/challenges#challenge-148)                         | [writeup](/2021-nazionale/web1.md)     |     37 | @Maxpnl      |
-|  14 | web       | [Fritto Misto 2](https://training.olicyber.it/challenges#challenge-149)                         | [writeup](/2021-nazionale/web2.md)     |      4 | @Maxpnl      |
-|  15 | web       | [FlagDownloader 1](https://training.olicyber.it/challenges#challenge-150)                       | [writeup](/2021-nazionale/web3.md)     |     91 | @xato        |
-|  16 | web       | [FlagDownloader 2](https://training.olicyber.it/challenges#challenge-151)                       | [writeup](/2021-nazionale/web4.md)     |      4 | @xato        |
+|   # | categoria | challenge                                                                                       | writeup                                 | solves | autore       |
+| --: | :-------- | :---------------------------------------------------------------------------------------------- | :-------------------------------------- | -----: | :----------- |
+|   1 | binary    | [La settimana enigmistica](https://training.olicyber.it/challenges#challenge-144)               | [writeup](/2021-nazionale/binary1.md)   |     23 | @Alberto247  |
+|   2 | binary    | [Algoritmo Sicuro e Resistente](https://training.olicyber.it/challenges#challenge-145)          | [writeup](/2021-nazionale/binary2.md)   |     19 | @Alberto247  |
+|   3 | binary    | [I predetatori dell'indirizzo perduto 1](https://training.olicyber.it/challenges#challenge-146) | [writeup](/2021-nazionale/binary3.md)   |     14 | @OrsoBruno96 |
+|   4 | binary    | [I predetatori dell'indirizzo perduto 2](https://training.olicyber.it/challenges#challenge-147) | [writeup](/2021-nazionale/binary4.md)   |     10 | @OrsoBruno96 |
+|   5 | crypto    | [Un po' di storia](https://training.olicyber.it/challenges#challenge-136)                       | [writeup](/2021-nazionale/crypto1.md)   |     69 | @Drago       |
+|   6 | crypto    | [Small bits of RSA](https://training.olicyber.it/challenges#challenge-137)                      | [writeup](/2021-nazionale/crypto2.md)   |     33 | @Drago       |
+|   7 | crypto    | [SoundOfSystem](https://training.olicyber.it/challenges#challenge-138)                          | [writeup](/2021-nazionale/crypto3.md)   |      7 | @Drago       |
+|   8 | crypto    | [Large bits of RSA](https://training.olicyber.it/challenges#challenge-139)                      | [writeup](/2021-nazionale/crypto4.md)   |      0 | @Drago       |
+|   9 | misc      | [Il test di ammissione](https://training.olicyber.it/challenges#challenge-140)                  | [writeup](/2021-nazionale/misc1.md)     |     60 | @matpr       |
+|  10 | misc      | [Il test di ammissione 2](https://training.olicyber.it/challenges#challenge-141)                | [writeup](/2021-nazionale/misc2.md)     |      1 | @matpr       |
+|  11 | network   | [tr(A)Is](https://training.olicyber.it/challenges#challenge-142)                                | [writeup](/2021-nazio nale/network1.md) |    111 | @lorenz      |
+|  12 | network   | [Dispositivo Non Sicuro](https://training.olicyber.it/challenges#challenge-143)                 | [writeup](/2021-nazionale/network2.md)  |     25 | @lorenz      |
+|  13 | web       | [Fritto Misto 1](https://training.olicyber.it/challenges#challenge-148)                         | [writeup](/2021-nazionale/web1.md)      |     37 | @Maxpnl      |
+|  14 | web       | [Fritto Misto 2](https://training.olicyber.it/challenges#challenge-149)                         | [writeup](/2021-nazionale/web2.md)      |      4 | @Maxpnl      |
+|  15 | web       | [FlagDownloader 1](https://training.olicyber.it/challenges#challenge-150)                       | [writeup](/2021-nazionale/web3.md)      |     91 | @xato        |
+|  16 | web       | [FlagDownloader 2](https://training.olicyber.it/challenges#challenge-151)                       | [writeup](/2021-nazionale/web4.md)      |      4 | @xato        |
 
 ## OliCyber.IT 2023 - Training Camp 1
 
@@ -74,3 +74,19 @@ Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it
 |   9 | web       | [Gabibbo Says](https://training.olicyber.it/challenges#challenge-369)            | [writeup](/2023-camp-1/web1.md)      |    195 | Stefano Alberto <@xato>         |
 |  10 | web       | [L'ennesimo login bypass](https://training.olicyber.it/challenges#challenge-370) | [writeup](/2023-camp-1/web2.md)      |     28 | Aleandro Prudenzano <@drw0if>   |
 |  11 | web       | [Cloud free tier](https://training.olicyber.it/challenges#challenge-371)         | [writeup](/2023-camp-1/web3.md)      |      5 | Aleandro Prudenzano <@drw0if>   |
+
+## OliCyber.IT 2023 - Training Camp 2
+
+|   # | categoria | challenge                                                                                    | writeup                              | solves | autore                          |
+| --: | :-------- | :------------------------------------------------------------------------------------------- | :----------------------------------- | -----: | :------------------------------ |
+|   1 | misc      | [Gab-chan.png](https://training.olicyber.it/challenges#challenge-375)                        | [writeup](/2023-camp-2/misc1.md)     |      5 | Alessandro Pizzorni <@Pixel>    |
+|   2 | network   | [SSH login](https://training.olicyber.it/challenges#challenge-376)                           | [writeup](/2023-camp-2/network1.md)  |    207 | Alberto Carboneri <@Alberto247> |
+|   3 | crypto    | [Last minute](https://training.olicyber.it/challenges#challenge-372)                         | [writeup](/2023-camp-2/crypto1.md)   |    178 | Lorenzo Demeio <@Devrar>        |
+|   4 | crypto    | [Sempre più primi, sempre più strani](https://training.olicyber.it/challenges#challenge-373) | [writeup](/2023-camp-2/crypto2.md)   |     40 | Lorenzo Demeio <@Devrar>        |
+|   5 | crypto    | [Il solito servizio](https://training.olicyber.it/challenges#challenge-374)                  | [writeup](/2023-camp-2/crypto3.md)   |      2 | Lorenzo Demeio <@Devrar>        |
+|   6 | binary    | [strong-as-md5](https://training.olicyber.it/challenges#challenge-377)                       | [writeup](/2023-camp-2/software1.md) |     20 | Mario Del Gaudio <@hdesk>       |
+|   7 | binary    | [baby-printf](https://training.olicyber.it/challenges#challenge-378)                         | [writeup](/2023-camp-2/software2.md) |     21 | Mario Del Gaudio <@hdesk>       |
+|   8 | binary    | [implementation defined](https://training.olicyber.it/challenges#challenge-379)              | [writeup](/2023-camp-2/software3.md) |      6 | Mario Del Gaudio <@hdesk>       |
+|   9 | web       | [MEME SHOP](https://training.olicyber.it/challenges#challenge-380)                           | [writeup](/2023-camp-2/web1.md)      |    129 | Aleandro Prudenzano <@drw0if>   |
+|  10 | web       | [MEME SHOP review](https://training.olicyber.it/challenges#challenge-381)                    | [writeup](/2023-camp-2/web2.md)      |     33 | Aleandro Prudenzano <@drw0if>   |
+|  11 | web       | [INVALSI](https://training.olicyber.it/challenges#challenge-382)                             | [writeup](/2023-camp-2/web3.md)      |     18 | Aleandro Prudenzano <@drw0if>   |
