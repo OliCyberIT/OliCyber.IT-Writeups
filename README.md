@@ -58,3 +58,19 @@ Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it
 |  14 | web       | [Fritto Misto 2](https://training.olicyber.it/challenges#challenge-149)                         | [writeup](/2021-nazionale/web2.md)     |      4 | @Maxpnl      |
 |  15 | web       | [FlagDownloader 1](https://training.olicyber.it/challenges#challenge-150)                       | [writeup](/2021-nazionale/web3.md)     |     91 | @xato        |
 |  16 | web       | [FlagDownloader 2](https://training.olicyber.it/challenges#challenge-151)                       | [writeup](/2021-nazionale/web4.md)     |      4 | @xato        |
+
+## OliCyber.IT 2023 - Training Camp 1
+
+|   # | categoria | challenge                                                                        | writeup                              | solves | autore                          |
+| --: | :-------- | :------------------------------------------------------------------------------- | :----------------------------------- | -----: | :------------------------------ |
+|   1 | misc      | [IHC - I Hate Captcha!](https://training.olicyber.it/challenges#challenge-364)   | [writeup](/2023-camp-1/misc1.md)     |     37 | Alessandro Pizzorni <@Pixel>    |
+|   2 | network   | [Secure Co. Login](https://training.olicyber.it/challenges#challenge-365)        | [writeup](/2023-camp-1/network1.md)  |      8 | Alberto Carboneri <@Alberto247> |
+|   3 | crypto    | [Cifrario a caso](https://training.olicyber.it/challenges#challenge-361)         | [writeup](/2023-camp-1/crypto1.md)   |     42 | Lorenzo Demeio <@Devrar>        |
+|   4 | crypto    | [DH revisited](https://training.olicyber.it/challenges#challenge-362)            | [writeup](/2023-camp-1/crypto2.md)   |      7 | Francesco Felet <@PhiQuadro>    |
+|   5 | crypto    | [A weird trip to Delphi](https://training.olicyber.it/challenges#challenge-363)  | [writeup](/2023-camp-1/crypto3.md)   |      4 | Francesco Felet <@PhiQuadro>    |
+|   6 | binary    | [runme](https://training.olicyber.it/challenges#challenge-366)                   | [writeup](/2023-camp-1/software1.md) |    163 | Mario Del Gaudio <@hdesk>       |
+|   7 | binary    | [flagvault](https://training.olicyber.it/challenges#challenge-367)               | [writeup](/2023-camp-1/software2.md) |     40 | Mario Del Gaudio <@hdesk>       |
+|   8 | binary    | [big-overflow](https://training.olicyber.it/challenges#challenge-368)            | [writeup](/2023-camp-1/software3.md) |      5 | Mario Del Gaudio <@hdesk>       |
+|   9 | web       | [Gabibbo Says](https://training.olicyber.it/challenges#challenge-369)            | [writeup](/2023-camp-1/web1.md)      |    195 | Stefano Alberto <@xato>         |
+|  10 | web       | [L'ennesimo login bypass](https://training.olicyber.it/challenges#challenge-370) | [writeup](/2023-camp-1/web2.md)      |     28 | Aleandro Prudenzano <@drw0if>   |
+|  11 | web       | [Cloud free tier](https://training.olicyber.it/challenges#challenge-371)         | [writeup](/2023-camp-1/web3.md)      |      5 | Aleandro Prudenzano <@drw0if>   |
