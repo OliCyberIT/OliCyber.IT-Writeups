@@ -100,7 +100,7 @@ Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it
 |   8 | crypto    | [Large bits of RSA](https://training.olicyber.it/challenges#challenge-139)                      | [writeup](/2021-nazionale/crypto4.md)   |      0 | @Drago       |
 |   9 | misc      | [Il test di ammissione](https://training.olicyber.it/challenges#challenge-140)                  | [writeup](/2021-nazionale/misc1.md)     |     60 | @matpr       |
 |  10 | misc      | [Il test di ammissione 2](https://training.olicyber.it/challenges#challenge-141)                | [writeup](/2021-nazionale/misc2.md)     |      1 | @matpr       |
-|  11 | network   | [tr(A)Is](https://training.olicyber.it/challenges#challenge-142)                                | [writeup](/2021-nazio nale/network1.md) |    111 | @lorenz      |
+|  11 | network   | [tr(A)Is](https://training.olicyber.it/challenges#challenge-142)                                | [writeup](/2021-nazionale/network1.md) |    111 | @lorenz      |
 |  12 | network   | [Dispositivo Non Sicuro](https://training.olicyber.it/challenges#challenge-143)                 | [writeup](/2021-nazionale/network2.md)  |     25 | @lorenz      |
 |  13 | web       | [Fritto Misto 1](https://training.olicyber.it/challenges#challenge-148)                         | [writeup](/2021-nazionale/web1.md)      |     37 | @Maxpnl      |
 |  14 | web       | [Fritto Misto 2](https://training.olicyber.it/challenges#challenge-149)                         | [writeup](/2021-nazionale/web2.md)      |      4 | @Maxpnl      |
