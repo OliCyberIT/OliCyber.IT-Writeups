@@ -40,7 +40,7 @@ else:
 	c00, c01, c11, c10 = c00 ^ 1, c01 ^ 1, c11 ^ 1, c10 ^ 1
 ```
 
-Questo è il risultato renderizzando ogni step della soluzine:
+Questo è il risultato renderizzando ogni step della soluzione:
 
 ![soluzione](attachments/solution.gif)
 
