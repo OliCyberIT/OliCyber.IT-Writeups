@@ -4,19 +4,19 @@ Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it
 
 ## OliCyber.IT 2023 - Selezione territoriale
 
-|   # | categoria | challenge                                                                   | writeup                                    | risoluzioni | autore                                                |
-| --: | :-------- | :-------------------------------------------------------------------------- | :----------------------------------------- | ----------: | :---------------------------------------------------- |
-|   1 | network   | [Flag interceptor](https://training.olicyber.it/challenges#)                | [writeup](/2023-territoriale/network1.md)  |         176 | Matteo Protopapa <@matpro>                            |
-|   2 | misc      | [Gabibbo Innovazione Tecnologica](https://training.olicyber.it/challenges#) | [writeup](/2023-territoriale/misc1.md)     |          99 | Lorenzo Catoni <@lorenz>                              |
-|   3 | crypto    | [Classicamente python](https://training.olicyber.it/challenges#)            | [writeup](/2023-territoriale/crypto1.md)   |         381 | Riccardo Zanotto <@Drago>                             |
-|   4 | crypto    | [IndovinANDo segreti](https://training.olicyber.it/challenges#)             | [writeup](/2023-territoriale/crypto2.md)   |          70 | Riccardo Zanotto <@Drago>                             |
-|   5 | crypto    | [Squared](https://training.olicyber.it/challenges#)                         | [writeup](/2023-territoriale/crypto3.md)   |           3 | Matteo Rossi <@mr96>                                  |
-|   6 | binary    | [Frasi basate](https://training.olicyber.it/challenges#)                    | [writeup](/2023-territoriale/software1.md) |         336 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
-|   7 | binary    | [Super-licenza](https://training.olicyber.it/challenges#)                   | [writeup](/2023-territoriale/software2.md) |          89 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
-|   8 | binary    | [Fritto disordinato](https://training.olicyber.it/challenges#)              | [writeup](/2023-territoriale/software3.md) |           7 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
-|   9 | web       | [Gabibbo's treasure](https://training.olicyber.it/challenges#)              | [writeup](/2023-territoriale/web1.md)      |         550 | Stefano Alberto <@Xato>                               |
-|  10 | web       | [Gabibbo's friend](https://training.olicyber.it/challenges#)                | [writeup](/2023-territoriale/web2.md)      |         306 | Mattia Furlani <@Maxpnl>, Stefano Alberto <@Xato>     |
-|  11 | web       | [debug_disabilitato](https://training.olicyber.it/challenges#)              | [writeup](/2023-territoriale/web3.md)      |           8 | Aleandro Prudenzano <@drw0if>                         |
+|   # | categoria | challenge                                                                      | writeup                                    | risoluzioni | autore                                                |
+| --: | :-------- | :----------------------------------------------------------------------------- | :----------------------------------------- | ----------: | :---------------------------------------------------- |
+|   1 | network   | [Flag interceptor](https://training.olicyber.it/challenges#398)                | [writeup](/2023-territoriale/network1.md)  |         176 | Matteo Protopapa <@matpro>                            |
+|   2 | misc      | [Gabibbo Innovazione Tecnologica](https://training.olicyber.it/challenges#397) | [writeup](/2023-territoriale/misc1.md)     |          99 | Lorenzo Catoni <@lorenz>                              |
+|   3 | crypto    | [Classicamente python](https://training.olicyber.it/challenges#394)            | [writeup](/2023-territoriale/crypto1.md)   |         381 | Riccardo Zanotto <@Drago>                             |
+|   4 | crypto    | [IndovinANDo segreti](https://training.olicyber.it/challenges#395)             | [writeup](/2023-territoriale/crypto2.md)   |          70 | Riccardo Zanotto <@Drago>                             |
+|   5 | crypto    | [Squared](https://training.olicyber.it/challenges#396)                         | [writeup](/2023-territoriale/crypto3.md)   |           3 | Matteo Rossi <@mr96>                                  |
+|   6 | binary    | [Frasi basate](https://training.olicyber.it/challenges#399)                    | [writeup](/2023-territoriale/software1.md) |         336 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
+|   7 | binary    | [Super-licenza](https://training.olicyber.it/challenges#400)                   | [writeup](/2023-territoriale/software2.md) |          89 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
+|   8 | binary    | [Fritto disordinato](https://training.olicyber.it/challenges#401)              | [writeup](/2023-territoriale/software3.md) |           7 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
+|   9 | web       | [Gabibbo's treasure](https://training.olicyber.it/challenges#402)              | [writeup](/2023-territoriale/web1.md)      |         550 | Stefano Alberto <@Xato>                               |
+|  10 | web       | [Gabibbo's friend](https://training.olicyber.it/challenges#403)                | [writeup](/2023-territoriale/web2.md)      |         306 | Mattia Furlani <@Maxpnl>, Stefano Alberto <@Xato>     |
+|  11 | web       | [debug_disabilitato](https://training.olicyber.it/challenges#404)              | [writeup](/2023-territoriale/web3.md)      |           8 | Aleandro Prudenzano <@drw0if>                         |
 
 ## OliCyber.IT 2023 - Training Camp 3
 
