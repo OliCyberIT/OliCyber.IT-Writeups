@@ -1,6 +1,6 @@
 # OliCyber.IT 2023 - Competizione Nazionale
 
-## [network] DoNotReverseMe (X risoluzioni)
+## [network] DoNotReverseMe (35 risoluzioni)
 
 La challenge fornisce un client eseguibile che si connette ad un endpoint remoto, scambiando dei dati ("autenticando" il client in quanto le operazioni effettuate su questi dati vengono controllate) e stampando poi parte della flag.
 
