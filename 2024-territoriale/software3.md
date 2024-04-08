@@ -45,13 +45,13 @@ Dato che `buffer` è un array controllato, abbiamo una format string vulnerabili
 
 Il modo più semplice è probabilmente inserire diversi specificatori `%p` fino a che non si ottiene effettivamente un canary leak. Il canary è composto da una sequenza di byte casuali lunga 8 byte + un byte nullo, ed è quindi abbastanza semplice capire quali dei leak stampati in output è davvero il canary. Ma è anche possibile utilizzare un debugger per ispezionare lo stack e controllare che l'associazione sia corretta.
 
-![printf leaks](writeup/printf_leaks.png)
+![printf leaks](attachments/printf_leaks.png)
 
 Nell'esempio sopra, il canary è il 17esimo valore: `0xf2e23800574f2c00`.  
 
 Infine, abbiamo bisogno di sapere quanto lontano sia il canary dall'inizio del nostro input, così che possiamo allineare tutti i blocchi sullo stack correttamente. Un possibile modo consiste nell'inserire una stringa riconoscibile all'interno del buffer di input (per esempio `AAAAAAAA`), poi analizzare lo stack con un debugger e calcolare l'offset del canary. Nello screenshot sotto, un breakpoint è stato impostato appena dopo la seconda chiamata alla funzione `gets` nella funzione `main`; gli strumenti utilizzati sono `gdb` + [`pwndbg`](https://github.com/pwndbg/pwndbg).
 
-![stack layout](writeup/stack_layout.png)
+![stack layout](attachments/stack_layout.png)
 
 La linea rosa indica l'inizio del nostro buffer di input; la linea blu indica il canary; la linea verde indica l'indirizzo di ritorno della funzione `main`. Possiamo calcolare la distanza fra l'inizio dell'input e il canary semplicemente sottraendo i loro indirizzi:
 

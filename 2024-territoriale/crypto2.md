@@ -6,7 +6,7 @@ Ho appena creato il mio nuovo cifrario ARX, ma credo sia solo una questione di t
 
 Autore: Matteo Protopapa <@matpro>
 
-## Overview
+## Panoramica
 
 La challenge ci presenta due file: uno script in Python contenente il codice sorgente e il suo output, contenente un intero `n` e una stringa esadecimale `enc`. Lo script in Python genera una chiave e implementa un cifrario ARX utilizzato per cifrare la flag. L'obiettivo è quindi decifrare `enc`.
 

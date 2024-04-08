@@ -2,7 +2,7 @@
 
 ## [binary] Ghost (85 risoluzioni)
 
-Questo binario fa paura, ha dei fanstasmi dentro.
+Questo binario fa paura, ha dei fantasmi dentro.
 
 Autore: Fabio Zoratti <@orsobruno96>
 

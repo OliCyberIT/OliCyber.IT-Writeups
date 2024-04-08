@@ -22,18 +22,18 @@ Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it
 
 |   # | categoria | challenge                                                                    | writeup                                  | risoluzioni | autore                                                |
 | --: | :-------- | :--------------------------------------------------------------------------- | :--------------------------------------- | ----------: | :---------------------------------------------------- |
-|   1 | crypto    | [Geroglifici](https://training.olicyber.it/challenges#challenge-429)         | [writeup](/2023-nazionale/crypto01.md)   |          84 | Riccardo Zanotto <@Drago>                             |
-|   2 | crypto    | [Poly(not)1305](https://training.olicyber.it/challenges#challenge-430)       | [writeup](/2023-nazionale/crypto02.md)   |          14 | Riccardo Zanotto <@Drago>                             |
-|   3 | crypto    | [Ritorno al passato](https://training.olicyber.it/challenges#challenge-431)  | [writeup](/2023-nazionale/crypto03.md)   |           0 | Matteo Rossi <@mr96>                                  |
-|   4 | misc      | [Sandbox-v1.py](https://training.olicyber.it/challenges#challenge-432)       | [writeup](/2023-nazionale/misc01.md)     |          69 | Lorenzo Catoni <@lorenz>                              |
-|   5 | misc      | [Sandbox-v2.py](https://training.olicyber.it/challenges#challenge-433)       | [writeup](/2023-nazionale/misc02.md)     |          26 | Lorenzo Catoni <@lorenz>                              |
-|   6 | network   | [DoNotReverseMe](https://training.olicyber.it/challenges#challenge-434)      | [writeup](/2023-nazionale/network01.md)  |          35 | Matteo Protopapa <@matpro>                            |
-|   7 | binary    | [You spin me Belandi](https://training.olicyber.it/challenges#challenge-435) | [writeup](/2023-nazionale/software01.md) |          37 | Nicola Vella <@nick0ve>, Fabio Zoratti <@OrsoBruno96> |
-|   8 | binary    | [guesser master](https://training.olicyber.it/challenges#challenge-436)      | [writeup](/2023-nazionale/software02.md) |          32 | Nicola Vella <@nick0ve>, Fabio Zoratti <@OrsoBruno96> |
-|   9 | binary    | [Anticheat](https://training.olicyber.it/challenges#challenge-437)           | [writeup](/2023-nazionale/software03.md) |           0 | Nicola Vella <@nick0ve>, Fabio Zoratti <@OrsoBruno96> |
-|  10 | web       | [Privnotes](https://training.olicyber.it/challenges#challenge-438)           | [writeup](/2023-nazionale/web01.md)      |          45 | Mattia Furlani <@Maxpnl>                              |
-|  11 | web       | [Proposte](https://training.olicyber.it/challenges#challenge-439)            | [writeup](/2023-nazionale/web02.md)      |           5 | Stefano Alberto <@Xato>                               |
-|  12 | web       | [Secret Archive](https://training.olicyber.it/challenges#challenge-440)      | [writeup](/2023-nazionale/web03.md)      |           1 | Mattia Furlani <@Maxpnl>                              |
+|   1 | crypto    | [Geroglifici](https://training.olicyber.it/challenges#challenge-429)         | [writeup](/2023-nazionale/crypto1.md)   |          84 | Riccardo Zanotto <@Drago>                             |
+|   2 | crypto    | [Poly(not)1305](https://training.olicyber.it/challenges#challenge-430)       | [writeup](/2023-nazionale/crypto2.md)   |          14 | Riccardo Zanotto <@Drago>                             |
+|   3 | crypto    | [Ritorno al passato](https://training.olicyber.it/challenges#challenge-431)  | [writeup](/2023-nazionale/crypto3.md)   |           0 | Matteo Rossi <@mr96>                                  |
+|   4 | misc      | [Sandbox-v1.py](https://training.olicyber.it/challenges#challenge-432)       | [writeup](/2023-nazionale/misc1.md)     |          69 | Lorenzo Catoni <@lorenz>                              |
+|   5 | misc      | [Sandbox-v2.py](https://training.olicyber.it/challenges#challenge-433)       | [writeup](/2023-nazionale/misc2.md)     |          26 | Lorenzo Catoni <@lorenz>                              |
+|   6 | network   | [DoNotReverseMe](https://training.olicyber.it/challenges#challenge-434)      | [writeup](/2023-nazionale/network1.md)  |          35 | Matteo Protopapa <@matpro>                            |
+|   7 | binary    | [You spin me Belandi](https://training.olicyber.it/challenges#challenge-435) | [writeup](/2023-nazionale/software1.md) |          37 | Nicola Vella <@nick0ve>, Fabio Zoratti <@OrsoBruno96> |
+|   8 | binary    | [guesser master](https://training.olicyber.it/challenges#challenge-436)      | [writeup](/2023-nazionale/software2.md) |          32 | Nicola Vella <@nick0ve>, Fabio Zoratti <@OrsoBruno96> |
+|   9 | binary    | [Anticheat](https://training.olicyber.it/challenges#challenge-437)           | [writeup](/2023-nazionale/software3.md) |           0 | Nicola Vella <@nick0ve>, Fabio Zoratti <@OrsoBruno96> |
+|  10 | web       | [Privnotes](https://training.olicyber.it/challenges#challenge-438)           | [writeup](/2023-nazionale/web1.md)      |          45 | Mattia Furlani <@Maxpnl>                              |
+|  11 | web       | [Proposte](https://training.olicyber.it/challenges#challenge-439)            | [writeup](/2023-nazionale/web2.md)      |           5 | Stefano Alberto <@Xato>                               |
+|  12 | web       | [Secret Archive](https://training.olicyber.it/challenges#challenge-440)      | [writeup](/2023-nazionale/web3.md)      |           1 | Mattia Furlani <@Maxpnl>                              |
 
 ## OliCyber.IT 2023 - Selezione territoriale
 
