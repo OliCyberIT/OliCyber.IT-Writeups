@@ -4,7 +4,7 @@
 
 Volevo imparare Python e Flask, niente di meglio di una todo app, a quanto dice Reddit!
 
-Sito: [http://todo.challs.territoriale.olicyber.it](http://todo.challs.territoriale.olicyber.it)
+Sito: [http://todo.challs.olicyber.it](http://todo.challs.olicyber.it)
 
 Autore: Aleandro Prudenzano <@drw0if>
 
@@ -48,7 +48,7 @@ import requests
 import re
 
 # For HTTP connection
-URL = os.environ.get("URL", "http://todo.challs.territoriale.olicyber.it")
+URL = os.environ.get("URL", "http://todo.challs.olicyber.it")
 if URL.endswith("/"):
     URL = URL[:-1]
 
