@@ -4,36 +4,36 @@ Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it
 
 ## OliCyber.IT 2025 - Competizione nazionale
 
-|   # | categoria | challenge                                                                     | writeup                              | risoluzioni | autore                       |
-| --: | :-------- | :---------------------------------------------------------------------------- | :----------------------------------- | ----------: | :--------------------------- |
-|   1 | binary    | [sodiiiiiium](https://training.olicyber.it/challenges#722)                    | [writeup](2025-nazionale/binary1.md) |          84 | Andrea Raineri <@Rising>     |
-|   2 | binary    | [coolifer](https://training.olicyber.it/challenges#723)                       | [writeup](2025-nazionale/binary2.md) |          23 | Giulia Martino <@Giulia>     |
-|   3 | binary    | [Useless guessing](https://training.olicyber.it/challenges#724)               | [writeup](2025-nazionale/binary3.md) |           1 | Giulia Martino <@Giulia>     |
-|   4 | crypto    | [Colors](https://training.olicyber.it/challenges#725)                         | [writeup](2025-nazionale/crypto1.md) |          89 | Francesco Felet <@PhiQuadro> |
-|   5 | crypto    | [Party Mode](https://training.olicyber.it/challenges#726)                     | [writeup](2025-nazionale/crypto2.md) |           7 | Matteo Rossi <@mr96>         |
-|   6 | crypto    | [Cosmic rays](https://training.olicyber.it/challenges#727)                    | [writeup](2025-nazionale/crypto3.md) |           3 | Lorenzo Demeio <@Devrar>     |
-|   7 | misc      | [Live and Let Die](https://training.olicyber.it/challenges#726)               | [writeup](2025-nazionale/misc1.md)   |          41 | Lorenzo Catoni <@lorenzcat>  |
-|   8 | misc      | [censored](https://training.olicyber.it/challenges#729)                       | [writeup](2025-nazionale/misc2.md)   |          59 | Lorenzo Catoni <@lorenzcat>  |
-|   9 | misc      | [Epic Web3 donations gone wrong](https://training.olicyber.it/challenges#730) | [writeup](2025-nazionale/misc3.md)   |           9 | Giovanni Minotti <@giotino>  |
-|  10 | web       | [SinglePageAdmin](https://training.olicyber.it/challenges#731)                | [writeup](2025-nazionale/web1.md)    |          90 | Lorenzo Leonardini <@pianka> |
-|  11 | web       | [NTLFS](https://training.olicyber.it/challenges#732)                          | [writeup](2025-nazionale/web2.md)    |           5 | Stefano Alberto <@Xato>      |
-|  12 | web       | [Dependency Hell](https://training.olicyber.it/challenges#733)                | [writeup](2025-nazionale/web3.md)    |           3 | Lorenzo Leonardini <@pianka> |
+|   # | categoria | challenge                                                                               | writeup                              | risoluzioni | autore                       |
+| --: | :-------- | :-------------------------------------------------------------------------------------- | :----------------------------------- | ----------: | :--------------------------- |
+|   1 | binary    | [sodiiiiiium](https://training.olicyber.it/challenges#challenge-722)                    | [writeup](2025-nazionale/binary1.md) |          84 | Andrea Raineri <@Rising>     |
+|   2 | binary    | [coolifer](https://training.olicyber.it/challenges#challenge-723)                       | [writeup](2025-nazionale/binary2.md) |          23 | Giulia Martino <@Giulia>     |
+|   3 | binary    | [Useless guessing](https://training.olicyber.it/challenges#challenge-724)               | [writeup](2025-nazionale/binary3.md) |           1 | Giulia Martino <@Giulia>     |
+|   4 | crypto    | [Colors](https://training.olicyber.it/challenges#challenge-725)                         | [writeup](2025-nazionale/crypto1.md) |          89 | Francesco Felet <@PhiQuadro> |
+|   5 | crypto    | [Party Mode](https://training.olicyber.it/challenges#challenge-726)                     | [writeup](2025-nazionale/crypto2.md) |           7 | Matteo Rossi <@mr96>         |
+|   6 | crypto    | [Cosmic rays](https://training.olicyber.it/challenges#challenge-727)                    | [writeup](2025-nazionale/crypto3.md) |           3 | Lorenzo Demeio <@Devrar>     |
+|   7 | misc      | [Live and Let Die](https://training.olicyber.it/challenges#challenge-726)               | [writeup](2025-nazionale/misc1.md)   |          41 | Lorenzo Catoni <@lorenzcat>  |
+|   8 | misc      | [censored](https://training.olicyber.it/challenges#challenge-729)                       | [writeup](2025-nazionale/misc2.md)   |          59 | Lorenzo Catoni <@lorenzcat>  |
+|   9 | misc      | [Epic Web3 donations gone wrong](https://training.olicyber.it/challenges#challenge-730) | [writeup](2025-nazionale/misc3.md)   |           9 | Giovanni Minotti <@giotino>  |
+|  10 | web       | [SinglePageAdmin](https://training.olicyber.it/challenges#challenge-731)                | [writeup](2025-nazionale/web1.md)    |          90 | Lorenzo Leonardini <@pianka> |
+|  11 | web       | [NTLFS](https://training.olicyber.it/challenges#challenge-732)                          | [writeup](2025-nazionale/web2.md)    |           5 | Stefano Alberto <@Xato>      |
+|  12 | web       | [Dependency Hell](https://training.olicyber.it/challenges#challenge-733)                | [writeup](2025-nazionale/web3.md)    |           3 | Lorenzo Leonardini <@pianka> |
 
 ## OliCyber.IT 2025 - Competizione territoriale
 
-|   # | categoria | challenge                                                                       | writeup                                 | risoluzioni | autore                                                |
-| --: | :-------- | :------------------------------------------------------------------------------ | :-------------------------------------- | ----------: | :---------------------------------------------------- |
-|   1 | binary    | [Baity5](https://training.olicyber.it/challenges#720)                           | [writeup](2025-territoriale/binary1.md) |         389 | Giulia Martino <@Giulia>                              |
-|   2 | binary    | [Magic black box](https://training.olicyber.it/challenges#711)                  | [writeup](2025-territoriale/binary2.md) |          13 | Giulia Martino <@Giulia>                              |
-|   3 | binary    | [r/w playground](https://training.olicyber.it/challenges#713)                   | [writeup](2025-territoriale/binary3.md) |          16 | Giulia Martino <@Giulia>                              |
-|   4 | crypto    | [Insecure Passphrase Generator](https://training.olicyber.it/challenges#714)    | [writeup](2025-territoriale/crypto1.md) |         522 | Lorenzo Demeio <@Devrar>                              |
-|   5 | crypto    | [Again?](https://training.olicyber.it/challenges#715)                           | [writeup](2025-territoriale/crypto2.md) |         156 | Matteo Rossi <@mr96>                                  |
-|   6 | crypto    | [Secure Passphrase Generator](https://training.olicyber.it/challenges#719)      | [writeup](2025-territoriale/crypto3.md) |           5 | Matteo Protopapa <@matpro>, Lorenzo Demeio <@Devrar>  |
-|   7 | misc      | [bashinator revenge](https://training.olicyber.it/challenges#717)               | [writeup](2025-territoriale/misc1.md)   |         234 | Lorenzo Catoni <@lorenzcat>, Andrea Raineri <@rising> |
-|   8 | misc      | [Trasportando file](https://training.olicyber.it/challenges#716)                | [writeup](2025-territoriale/misc2.md)   |          77 | Matteo Protopapa <@matpro>                            |
-|   9 | web       | [La pazienza è la virtù dei forti](https://training.olicyber.it/challenges#712) | [writeup](2025-territoriale/web1.md)    |         462 | Lorenzo Leonardini <@pianka>                          |
-|  10 | web       | [Segnalazione cinghiali cittadini](https://training.olicyber.it/challenges#721) | [writeup](2025-territoriale/web2.md)    |         128 | Lorenzo Leonardini <@pianka>                          |
-|  11 | web       | [Secret storage](https://training.olicyber.it/challenges#718)                   | [writeup](2025-territoriale/web3.md)    |          23 | Lorenzo Leonardini <@pianka>                          |
+|   # | categoria | challenge                                                                                 | writeup                                 | risoluzioni | autore                                                |
+| --: | :-------- | :---------------------------------------------------------------------------------------- | :-------------------------------------- | ----------: | :---------------------------------------------------- |
+|   1 | binary    | [Baity5](https://training.olicyber.it/challenges#challenge-720)                           | [writeup](2025-territoriale/binary1.md) |         389 | Giulia Martino <@Giulia>                              |
+|   2 | binary    | [Magic black box](https://training.olicyber.it/challenges#challenge-711)                  | [writeup](2025-territoriale/binary2.md) |          13 | Giulia Martino <@Giulia>                              |
+|   3 | binary    | [r/w playground](https://training.olicyber.it/challenges#challenge-713)                   | [writeup](2025-territoriale/binary3.md) |          16 | Giulia Martino <@Giulia>                              |
+|   4 | crypto    | [Insecure Passphrase Generator](https://training.olicyber.it/challenges#challenge-714)    | [writeup](2025-territoriale/crypto1.md) |         522 | Lorenzo Demeio <@Devrar>                              |
+|   5 | crypto    | [Again?](https://training.olicyber.it/challenges#challenge-715)                           | [writeup](2025-territoriale/crypto2.md) |         156 | Matteo Rossi <@mr96>                                  |
+|   6 | crypto    | [Secure Passphrase Generator](https://training.olicyber.it/challenges#challenge-719)      | [writeup](2025-territoriale/crypto3.md) |           5 | Matteo Protopapa <@matpro>, Lorenzo Demeio <@Devrar>  |
+|   7 | misc      | [bashinator revenge](https://training.olicyber.it/challenges#challenge-717)               | [writeup](2025-territoriale/misc1.md)   |         234 | Lorenzo Catoni <@lorenzcat>, Andrea Raineri <@rising> |
+|   8 | misc      | [Trasportando file](https://training.olicyber.it/challenges#challenge-716)                | [writeup](2025-territoriale/misc2.md)   |          77 | Matteo Protopapa <@matpro>                            |
+|   9 | web       | [La pazienza è la virtù dei forti](https://training.olicyber.it/challenges#challenge-712) | [writeup](2025-territoriale/web1.md)    |         462 | Lorenzo Leonardini <@pianka>                          |
+|  10 | web       | [Segnalazione cinghiali cittadini](https://training.olicyber.it/challenges#challenge-721) | [writeup](2025-territoriale/web2.md)    |         128 | Lorenzo Leonardini <@pianka>                          |
+|  11 | web       | [Secret storage](https://training.olicyber.it/challenges#challenge-718)                   | [writeup](2025-territoriale/web3.md)    |          23 | Lorenzo Leonardini <@pianka>                          |
 
 ## OliCyber.IT 2024 - Competizione nazionale
 
@@ -54,19 +54,19 @@ Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it
 
 ## OliCyber.IT 2024 - Competizione territoriale
 
-|   # | categoria | challenge                                                         | writeup                                    | risoluzioni | autore                        |
-| --: | :-------- | :---------------------------------------------------------------- | :----------------------------------------- | ----------: | :---------------------------- |
-|   1 | crypto    | [Random Cycles Baby](https://training.olicyber.it/challenges#612) | [writeup](/2024-territoriale/crypto1.md)   |         240 | Lorenzo Demeio <@Devrar>      |
-|   2 | crypto    | [ARX designer](https://training.olicyber.it/challenges#613)       | [writeup](/2024-territoriale/crypto2.md)   |          59 | Matteo Protopapa <@matpro>    |
-|   3 | crypto    | [Random Cycles](https://training.olicyber.it/challenges#614)      | [writeup](/2024-territoriale/crypto3.md)   |           4 | Lorenzo Demeio <@Devrar>      |
-|   4 | misc      | [Secure Filemanager](https://training.olicyber.it/challenges#615) | [writeup](/2024-territoriale/misc1.md)     |         337 | Giovanni Minotti <@Giotino>   |
-|   5 | misc      | [Easy login](https://training.olicyber.it/challenges#616)         | [writeup](/2024-territoriale/misc2.md)     |         282 | Giovanni Minotti <@Giotino>   |
-|   6 | binary    | [Section31](https://training.olicyber.it/challenges#617)          | [writeup](/2024-territoriale/software1.md) |         396 | Fabio Zoratti <@orsobruno96>  |
-|   7 | binary    | [Ghost](https://training.olicyber.it/challenges#618)              | [writeup](/2024-territoriale/software2.md) |          85 | Fabio Zoratti <@orsobruno96>  |
-|   8 | binary    | [Age Calculator Pro](https://training.olicyber.it/challenges#619) | [writeup](/2024-territoriale/software3.md) |          35 | Giulia Martino <@Giulia>      |
-|   9 | web       | [Pretty please](https://training.olicyber.it/challenges#620)      | [writeup](/2024-territoriale/web1.md)      |         521 | Stefano Alberto <@Xato>       |
-|  10 | web       | [ToDO](https://training.olicyber.it/challenges#621)               | [writeup](/2024-territoriale/web2.md)      |          34 | Aleandro Prudenzano <@drw0if> |
-|  11 | web       | [Monty Hall](https://training.olicyber.it/challenges#622)         | [writeup](/2024-territoriale/web3.md)      |          41 | Aleandro Prudenzano <@drw0if> |
+|   # | categoria | challenge                                                                   | writeup                                    | risoluzioni | autore                        |
+| --: | :-------- | :-------------------------------------------------------------------------- | :----------------------------------------- | ----------: | :---------------------------- |
+|   1 | crypto    | [Random Cycles Baby](https://training.olicyber.it/challenges#challenge-612) | [writeup](/2024-territoriale/crypto1.md)   |         240 | Lorenzo Demeio <@Devrar>      |
+|   2 | crypto    | [ARX designer](https://training.olicyber.it/challenges#challenge-613)       | [writeup](/2024-territoriale/crypto2.md)   |          59 | Matteo Protopapa <@matpro>    |
+|   3 | crypto    | [Random Cycles](https://training.olicyber.it/challenges#challenge-614)      | [writeup](/2024-territoriale/crypto3.md)   |           4 | Lorenzo Demeio <@Devrar>      |
+|   4 | misc      | [Secure Filemanager](https://training.olicyber.it/challenges#challenge-615) | [writeup](/2024-territoriale/misc1.md)     |         337 | Giovanni Minotti <@Giotino>   |
+|   5 | misc      | [Easy login](https://training.olicyber.it/challenges#challenge-616)         | [writeup](/2024-territoriale/misc2.md)     |         282 | Giovanni Minotti <@Giotino>   |
+|   6 | binary    | [Section31](https://training.olicyber.it/challenges#challenge-617)          | [writeup](/2024-territoriale/software1.md) |         396 | Fabio Zoratti <@orsobruno96>  |
+|   7 | binary    | [Ghost](https://training.olicyber.it/challenges#challenge-618)              | [writeup](/2024-territoriale/software2.md) |          85 | Fabio Zoratti <@orsobruno96>  |
+|   8 | binary    | [Age Calculator Pro](https://training.olicyber.it/challenges#challenge-619) | [writeup](/2024-territoriale/software3.md) |          35 | Giulia Martino <@Giulia>      |
+|   9 | web       | [Pretty please](https://training.olicyber.it/challenges#challenge-620)      | [writeup](/2024-territoriale/web1.md)      |         521 | Stefano Alberto <@Xato>       |
+|  10 | web       | [ToDO](https://training.olicyber.it/challenges#challenge-621)               | [writeup](/2024-territoriale/web2.md)      |          34 | Aleandro Prudenzano <@drw0if> |
+|  11 | web       | [Monty Hall](https://training.olicyber.it/challenges#challenge-622)         | [writeup](/2024-territoriale/web3.md)      |          41 | Aleandro Prudenzano <@drw0if> |
 
 ## OliCyber.IT 2023 - Competizione nazionale
 
@@ -87,19 +87,19 @@ Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it
 
 ## OliCyber.IT 2023 - Selezione territoriale
 
-|   # | categoria | challenge                                                                      | writeup                                    | risoluzioni | autore                                                |
-| --: | :-------- | :----------------------------------------------------------------------------- | :----------------------------------------- | ----------: | :---------------------------------------------------- |
-|   1 | network   | [Flag interceptor](https://training.olicyber.it/challenges#398)                | [writeup](/2023-territoriale/network1.md)  |         176 | Matteo Protopapa <@matpro>                            |
-|   2 | misc      | [Gabibbo Innovazione Tecnologica](https://training.olicyber.it/challenges#397) | [writeup](/2023-territoriale/misc1.md)     |          99 | Lorenzo Catoni <@lorenz>                              |
-|   3 | crypto    | [Classicamente python](https://training.olicyber.it/challenges#394)            | [writeup](/2023-territoriale/crypto1.md)   |         381 | Riccardo Zanotto <@Drago>                             |
-|   4 | crypto    | [IndovinANDo segreti](https://training.olicyber.it/challenges#395)             | [writeup](/2023-territoriale/crypto2.md)   |          70 | Riccardo Zanotto <@Drago>                             |
-|   5 | crypto    | [Squared](https://training.olicyber.it/challenges#396)                         | [writeup](/2023-territoriale/crypto3.md)   |           3 | Matteo Rossi <@mr96>                                  |
-|   6 | binary    | [Frasi basate](https://training.olicyber.it/challenges#399)                    | [writeup](/2023-territoriale/software1.md) |         336 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
-|   7 | binary    | [Super-licenza](https://training.olicyber.it/challenges#400)                   | [writeup](/2023-territoriale/software2.md) |          89 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
-|   8 | binary    | [Fritto disordinato](https://training.olicyber.it/challenges#401)              | [writeup](/2023-territoriale/software3.md) |           7 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
-|   9 | web       | [Gabibbo's treasure](https://training.olicyber.it/challenges#402)              | [writeup](/2023-territoriale/web1.md)      |         550 | Stefano Alberto <@Xato>                               |
-|  10 | web       | [Gabibbo's friend](https://training.olicyber.it/challenges#403)                | [writeup](/2023-territoriale/web2.md)      |         306 | Mattia Furlani <@Maxpnl>, Stefano Alberto <@Xato>     |
-|  11 | web       | [debug_disabilitato](https://training.olicyber.it/challenges#404)              | [writeup](/2023-territoriale/web3.md)      |           8 | Aleandro Prudenzano <@drw0if>                         |
+|   # | categoria | challenge                                                                                | writeup                                    | risoluzioni | autore                                                |
+| --: | :-------- | :--------------------------------------------------------------------------------------- | :----------------------------------------- | ----------: | :---------------------------------------------------- |
+|   1 | network   | [Flag interceptor](https://training.olicyber.it/challenges#challenge-398)                | [writeup](/2023-territoriale/network1.md)  |         176 | Matteo Protopapa <@matpro>                            |
+|   2 | misc      | [Gabibbo Innovazione Tecnologica](https://training.olicyber.it/challenges#challenge-397) | [writeup](/2023-territoriale/misc1.md)     |          99 | Lorenzo Catoni <@lorenz>                              |
+|   3 | crypto    | [Classicamente python](https://training.olicyber.it/challenges#challenge-394)            | [writeup](/2023-territoriale/crypto1.md)   |         381 | Riccardo Zanotto <@Drago>                             |
+|   4 | crypto    | [IndovinANDo segreti](https://training.olicyber.it/challenges#challenge-395)             | [writeup](/2023-territoriale/crypto2.md)   |          70 | Riccardo Zanotto <@Drago>                             |
+|   5 | crypto    | [Squared](https://training.olicyber.it/challenges#challenge-396)                         | [writeup](/2023-territoriale/crypto3.md)   |           3 | Matteo Rossi <@mr96>                                  |
+|   6 | binary    | [Frasi basate](https://training.olicyber.it/challenges#challenge-399)                    | [writeup](/2023-territoriale/software1.md) |         336 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
+|   7 | binary    | [Super-licenza](https://training.olicyber.it/challenges#challenge-400)                   | [writeup](/2023-territoriale/software2.md) |          89 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
+|   8 | binary    | [Fritto disordinato](https://training.olicyber.it/challenges#challenge-401)              | [writeup](/2023-territoriale/software3.md) |           7 | Fabio Zoratti <@OrsoBruno96>, Nicola Vella <@nick0ve> |
+|   9 | web       | [Gabibbo's treasure](https://training.olicyber.it/challenges#challenge-402)              | [writeup](/2023-territoriale/web1.md)      |         550 | Stefano Alberto <@Xato>                               |
+|  10 | web       | [Gabibbo's friend](https://training.olicyber.it/challenges#challenge-403)                | [writeup](/2023-territoriale/web2.md)      |         306 | Mattia Furlani <@Maxpnl>, Stefano Alberto <@Xato>     |
+|  11 | web       | [debug_disabilitato](https://training.olicyber.it/challenges#challenge-404)              | [writeup](/2023-territoriale/web3.md)      |           8 | Aleandro Prudenzano <@drw0if>                         |
 
 ## OliCyber.IT 2023 - Training Camp 3
 
