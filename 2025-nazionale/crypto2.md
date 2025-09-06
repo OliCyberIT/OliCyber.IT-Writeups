@@ -44,21 +44,21 @@ dove $Enc$ indica l'encryption con Blowfish in modalità ECB.
 
 Chiediamo ora la decryption di `ct` con i primi due `iv` uguali ma il terzo modificato: `my_ivs = ivs[:2] + [bytes(8)]`. L'encryption con le prime due modes of operation, CFB e CBC, sarà quindi uguale; l'output `x3'` di OFB sarà:
 
-$$
+$`
 x3' = Enc(\texttt{key3}, \texttt{my\_ivs}[2]) \oplus x2
-$$
+`$
 
 L'output dato dalla decryption sarà quindi
 
-$$
+$`
 pt1 = x3' \oplus ct =  Enc(\texttt{key3}, \texttt{my\_ivs}[2]) \oplus x2 \oplus ct.
-$$
+`$
 
 Sostituendo a `ct` il risultato sopra, abbiamo
 
-$$
+$`
 pt1 = Enc(\texttt{key3}, \texttt{my\_ivs}[2]) \oplus x2 \oplus ct = Enc(\texttt{key3}, \texttt{my\_ivs}[2]) \oplus Enc(\texttt{key3}, \texttt{ivs}[2]).
-$$
+`$
 
 Possiamo quindi utilizzare questa relazione per brutare `key3`:
 
