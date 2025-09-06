@@ -75,7 +75,7 @@ A questo punto il check è bypassato, e si può utilizzare il resto dell'input d
 
 È possibile utilizzare un debugger come GDB per trovare i valori degli offset di `printf` che corrispondono ai puntatori/valori che stiamo cercando. Il binario è a 64 bit, quindi i primi 6 parametri di `printf` sono passati tramite registri. Il primo parametro che viene cercato sullo stack è il settimo, che corrisponde all'offset 6 di `printf`. Mandando come input alla challenge una stringa come `%6$lx.%7$lx.%8$lx`, e confrontando l'output di `printf` con i valori sullo stack subito dopo la chiamata alla `printf`, è possibile trovare anche tutti gli altri offset necessari.
 
-![stack_layout.png](writeup/stack_layout.png)
+![stack_layout.png](attachments/stack_layout.png)
 
 Inserendo quindi una stringa del tipo `%25$n%36$lx.%37$lx` come primo input alla challenge, è possibile sovrascrivere il secret per passare il controllo di `strncmp`, leakare PIE e leakare lo stack.
 
