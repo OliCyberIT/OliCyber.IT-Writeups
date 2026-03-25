@@ -2,6 +2,22 @@
 
 Writeups ufficiali delle challenge proposte ad [OliCyber.IT](https://olicyber.it/)
 
+## OliCyber.IT 2026 - Competizione territoriale
+
+|   # | categoria | challenge                                                                       | writeup                                 | risoluzioni | autore                                                |
+| --: | :-------- | :------------------------------------------------------------------------------ | :-------------------------------------- | ----------: | :---------------------------------------------------- |
+|   1 | binary    | [Trace the void](https://training.olicyber.it/challenges#challenge-753)         | [writeup](2026-territoriale/binary1.md) |         220 | Alberto Carboneri <@Alberto247>                       |
+|   2 | binary    | [La mappa](https://training.olicyber.it/challenges#challenge-754)               | [writeup](2026-territoriale/binary2.md) |          76 | Alberto Carboneri <@Alberto247>                       |
+|   3 | binary    | [Super Secure Bank](https://training.olicyber.it/challenges#challenge-755)      | [writeup](2026-territoriale/binary3.md) |          18 | Vincenzo Bonforte <@Bonfee>, Giulia Martino <@Giulia> |
+|   4 | crypto    | [Not Morse Code](https://training.olicyber.it/challenges#challenge-756)         | [writeup](2026-territoriale/crypto1.md) |         319 | Lorenzo Demeio <@Devrar>                              |
+|   5 | crypto    | [Another One (Time Pad)](https://training.olicyber.it/challenges#challenge-757) | [writeup](2026-territoriale/crypto2.md) |           7 | Francesco Felet <@PhiQuadro>                          |
+|   6 | crypto    | [ECB-MAC](https://training.olicyber.it/challenges#challenge-758)                | [writeup](2026-territoriale/crypto3.md) |           5 | Lorenzo Demeio <@Devrar>                              |
+|   7 | misc      | [un vecchio dvd](https://training.olicyber.it/challenges#challenge-759)         | [writeup](2026-territoriale/misc1.md)   |          34 | Andrea Raineri <@Rising>                              |
+|   8 | misc      | [the cantina](https://training.olicyber.it/challenges#challenge-760)            | [writeup](2026-territoriale/misc2.md)   |         253 | Andrea Raineri <@Rising>                              |
+|   9 | web       | [Useless login](https://training.olicyber.it/challenges#challenge-761)          | [writeup](2026-territoriale/web1.md)    |         377 | Lorenzo Leonardini <@pianka>                          |
+|  10 | web       | [Rich Notes](https://training.olicyber.it/challenges#challenge-762)             | [writeup](2026-territoriale/web2.md)    |          14 | Lorenzo Leonardini <@pianka>                          |
+|  11 | web       | [Simple shop](https://training.olicyber.it/challenges#challenge-763)            | [writeup](2026-territoriale/web3.md)    |           8 | Lorenzo Leonardini <@pianka>                          |
+
 ## OliCyber.IT 2025 - Competizione nazionale
 
 |   # | categoria | challenge                                                                               | writeup                              | risoluzioni | autore                       |
