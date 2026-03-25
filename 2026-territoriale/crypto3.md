@@ -6,7 +6,7 @@
 > To seize everything you ever wanted in one moment</br>
 > Would you capture it or just let it slip?
 
-`nc 10.45.1.2 30003`
+`nc ecb-mac.challs.olicyber.it 38082`
 
 Author: Lorenzo Demeio <@Devrar>
 
@@ -51,8 +51,8 @@ from pwn import remote
 import os
 from ecb-mac import target_msg
 
-HOST = os.environ.get("HOST", "10.45.1.2")
-PORT = int(os.environ.get("PORT", 11146))
+HOST = os.environ.get("HOST", "ecb-mac.challs.olicyber.it")
+PORT = int(os.environ.get("PORT", 38082))
 
 def rotate_left(block, i):
     return block[i:] + block[:i]

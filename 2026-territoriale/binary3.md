@@ -4,7 +4,7 @@
 
 Non riuscirete mai a forzare la mia Super Secure Bank!
 
-`nc 10.45.1.2 20003`
+`nc super-secure-bank.challs.olicyber.it 38080`
 
 Author: Vincenzo Bonforte <@Bonfee>, Giulia Martino <@Giulia>
 
@@ -84,8 +84,8 @@ Usando il carattere `0` andremo a impostare `bank_name_len` al valore `0x30`, ot
 #!/usr/bin/env python3
 from pwn import *
 
-HOST = os.environ.get("HOST", "10.45.1.2")
-PORT = int(os.environ.get("PORT", 54323))
+HOST = os.environ.get("HOST", "super-secure-bank.challs.olicyber.it")
+PORT = int(os.environ.get("PORT", 38080))
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 exe = ELF(os.path.join(SCRIPT_DIR, "supersecurebank"), checksec=False)

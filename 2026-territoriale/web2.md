@@ -4,7 +4,7 @@
 
 A volte è utile poter prendere note con un minimo di formattazione...
 
-[http://10.45.1.2:40002](http://10.45.1.2:40002)
+Sito: [https://rich-notes.challs.olicyber.it/](https://rich-notes.challs.olicyber.it/)
 
 Author: Lorenzo Leonardini <@pianka>
 

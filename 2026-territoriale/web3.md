@@ -4,7 +4,7 @@
 
 Questo negozio online ha un sacco di controlli che ci impediscono di comprare la flag...
 
-Sito: [http://10.45.1.2:40003](http://10.45.1.2:40003)
+Sito: [https://simple-shop.challs.olicyber.it/](https://simple-shop.challs.olicyber.it/)
 
 Author: Lorenzo Leonardini <@pianka>
 

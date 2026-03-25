@@ -4,7 +4,7 @@
 
 Gli admin sono ancora al lavoro per aggiungere contenuti al sito, ma hanno già finito di implementare la parte di autenticazione.
 
-[http://10.45.1.2:40001](http://10.45.1.2:40001)
+Sito: [https://useless-login.challs.olicyber.it/](https://useless-login.challs.olicyber.it/)
 
 Author: Lorenzo Leonardini <@pianka>
 

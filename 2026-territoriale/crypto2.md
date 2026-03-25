@@ -6,7 +6,7 @@
 
 Dunque, il tutor diceva di scegliere una chiave lunga quanto il messaggio, in modo uniformemente casuale tra tutte le stringhe di quella lunghezza... dovrebbe essere tutto a posto!
 
-`nc 10.45.1.2 10927`
+`nc another-one.challs.olicyber.it 38081`
 
 Author: Francesco Felet <@PhiQuadro>
 
@@ -56,8 +56,8 @@ from base64 import b64decode
 
 logging.disable()
 
-HOST = os.environ.get("HOST", "10.45.1.2")
-PORT = int(os.environ.get("PORT", 10927))
+HOST = os.environ.get("HOST", "another-one.challs.olicyber.it")
+PORT = int(os.environ.get("PORT", 38081))
 
 alph = (ascii_lowercase + digits + ascii_uppercase + '+/').encode()
 k_alph = alph

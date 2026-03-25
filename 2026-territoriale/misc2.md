@@ -50,7 +50,7 @@ Darksaber Distillate
 
 ## Exploit
 
-```text
+```python
 # Python script con pwntools
 
 from pwn import *
